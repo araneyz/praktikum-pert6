@@ -1,12 +1,4 @@
-# 💻 Praktikum Laravel 6 – CRUD + Filament (SMP Mentari)
 
-**Proyek Laravel CRUD + Filament – Praktikum Pemrograman Berbasis Web**
-
-**Nama:** Anavalis Ridho Abdee Nugroho  
-**NPM:** 4523210012
-**Mata Kuliah:** Praktikum PBW B  
-
----
 
 ## 🧾 Praktikum 6: Membangun CRUD Laravel + Filament (SMP Mentari)
 
